@@ -284,3 +284,21 @@ Message sent from 80 to 0 -
   SCMD([ROT, {DEG=56}])
 Message sent from 80 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 80 to 0 - 
+  SCMD([ROT, {DEG=-61}])
+Message sent from 80 to 0 - 
+  SCMD([ROT, {DEG=-139}])
+Message sent from 80 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 80 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 80 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 80 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 80 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 80 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 80 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
