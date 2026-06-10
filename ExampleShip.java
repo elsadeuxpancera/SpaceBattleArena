@@ -60,7 +60,7 @@ public class ExampleShip extends BasicSpaceship {
          }
       } 
 
-      if (currentPos.getDistanceTo(this.midpoint) > 40) { 
+      if (currentPos.getDistanceTo(this.midpoint) > 100) { 
          if (!isPointingAtMiddle(env)) { 
             return new RotateCommand(getAngleToMidpoint(env)); 
          } 
