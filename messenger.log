@@ -1,0 +1,76 @@
+Message sent from 58 to 0 - 
+  REGISTER([Example Ship, [255, 255, 255], 0])
+Message sent from 58 to 0 - 
+  SCMD([ROT, {DEG=132}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([ROT, {DEG=-44}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
+Message sent from 58 to 0 - 
+  MWNL2_DISCONNECT(null)
