@@ -1,23 +1,76 @@
-import java.awt.Color;
+import java.awt.Color; 
+ 
+import ihs.apcs.spacebattle.*; 
+import ihs.apcs.spacebattle.commands.*; 
+ 
+public class ExampleShip extends BasicSpaceship { 
+    private int worldWidth; 
+    private int worldHeight; 
+    private Point midpoint; 
+     
+    public static void main(String[] args) 
+    { 
+        TextClient.run("10.56.98.121", new ExampleShip()); 
+    } 
+ 
+    @Override 
+    public RegistrationData registerShip(int numImages, int worldWidth, int worldHeight) 
+    { 
+        this.worldWidth = worldWidth/2; 
+        this.worldHeight = worldHeight/2; 
+        this.midpoint = new Point(this.worldWidth, this.worldHeight); 
+        return new RegistrationData("Example Ship", new Color(255, 255, 255), 0); 
+    } 
+     
+    public boolean isPointingAtMiddle(BasicEnvironment env) { 
+      return Math.abs(getAngleToMidpoint(env)) <= 2; 
+    } 
+     
+    public int getAngleToMidpoint(BasicEnvironment env) { 
+      ObjectStatus ship = env.getShipStatus(); 
+      Point currentPos = ship.getPosition(); 
+      int angle = currentPos.getAngleTo(this.midpoint) - ship.getOrientation(); 
+      while (angle > 180) { 
+         angle -= 360; 
+      } 
+      while (angle < -180) { 
+         angle += 360; 
+      } 
+      return angle; 
+    } 
+     
+    @Override 
+    public ShipCommand getNextCommand(BasicEnvironment env) 
+    { 
+      ObjectStatus ship = env.getShipStatus(); 
+      Point currentPos = ship.getPosition(); 
+      double speed = ship.getSpeed(); 
+      if (currentPos.getDistanceTo(this.midpoint) > 40) { 
+         if (!isPointingAtMiddle(env)) { 
+            return new RotateCommand(getAngleToMidpoint(env)); 
+         } 
+         return new ThrustCommand('B', 0.5, 0.4); 
+      } 
+      if (speed > 0.5) { 
+         return new BrakeCommand(0.5); 
+      } 
+       
+      RadarResults results = env.getRadar(); 
+      for (ObjectStatus detectedObject : results) { 
+         if (detectedObject.getType().equals("Ship")) { 
+            int angleToEnemy = currentPos.getAngleTo(detectedObject.getPosition()) - ship.getOrientation(); 
+            if (Math.abs(angleToEnemy) < 40) { 
+               return new FireTorpedoCommand('F'); 
+            } else { 
+               return new RotateCommand(angleToEnemy); 
+            } 
+         } 
+      } 
+      return new RadarCommand(10); 
+             
+    } 
+     
+} 
+ 
 
-import ihs.apcs.spacebattle.*;
-import ihs.apcs.spacebattle.commands.*;
-
-public class ExampleShip extends BasicSpaceship {
-    public static void main(String[] args)
-    {
-        TextClient.run("127.0.0.1", new ExampleShip());
-    }
-
-    @Override
-    public RegistrationData registerShip(int numImages, int worldWidth, int worldHeight)
-    {
-        return new RegistrationData("Example Ship", new Color(255, 255, 255), 0);
-    }
-
-    @Override
-    public ShipCommand getNextCommand(BasicEnvironment env)
-    {
-        return new IdleCommand(0.1);
-    }
-}
+ 
