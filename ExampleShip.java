@@ -44,7 +44,22 @@ public class ExampleShip extends BasicSpaceship {
     { 
       ObjectStatus ship = env.getShipStatus(); 
       Point currentPos = ship.getPosition(); 
-      double speed = ship.getSpeed(); 
+      double speed = ship.getSpeed();
+      
+      RadarResults results = env.getRadar(); 
+      if (results != null) {   
+         for (ObjectStatus detectedObject : results) { 
+            if (detectedObject.getType().equals("ship")) { 
+               int angleToEnemy = currentPos.getAngleTo(detectedObject.getPosition()) - ship.getOrientation(); 
+               if (Math.abs(angleToEnemy) < 40) { 
+                  return new FireTorpedoCommand('F'); 
+               } else { 
+                  return new RotateCommand(angleToEnemy); 
+               } 
+            } 
+         }
+      } 
+
       if (currentPos.getDistanceTo(this.midpoint) > 40) { 
          if (!isPointingAtMiddle(env)) { 
             return new RotateCommand(getAngleToMidpoint(env)); 
@@ -54,19 +69,9 @@ public class ExampleShip extends BasicSpaceship {
       if (speed > 0.5) { 
          return new BrakeCommand(0.5); 
       } 
+      return new RadarCommand(10);
        
-      RadarResults results = env.getRadar(); 
-      for (ObjectStatus detectedObject : results) { 
-         if (detectedObject.getType().equals("Ship")) { 
-            int angleToEnemy = currentPos.getAngleTo(detectedObject.getPosition()) - ship.getOrientation(); 
-            if (Math.abs(angleToEnemy) < 40) { 
-               return new FireTorpedoCommand('F'); 
-            } else { 
-               return new RotateCommand(angleToEnemy); 
-            } 
-         } 
-      } 
-      return new RadarCommand(10); 
+      
              
     } 
      
