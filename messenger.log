@@ -1,364 +1,58 @@
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   REGISTER([Example Ship, [255, 255, 255], 0])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-13}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
+  SCMD([ROT, {DEG=140}])
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([ROT, {DEG=-4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([ROT, {DEG=-3}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-3}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([ROT, {DEG=-5}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([ROT, {DEG=-4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([ROT, {DEG=-5}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-6}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-6}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-6}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-7}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-7}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-6}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-7}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-6}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-6}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([ROT, {DEG=-5}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-5}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
+  SCMD([ROT, {DEG=-152}])
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-5}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-5}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-4}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-3}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-3}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-3}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-3}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=178}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-3}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=19}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-61}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-52}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-53}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=53}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=53}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-54}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-54}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=55}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=55}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-56}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-56}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=57}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=58}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-58}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-58}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=60}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=60}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-60}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-63}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-8}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=49}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=56}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-61}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-139}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-3}])
-Message sent from 80 to 0 - 
-  SCMD([THRST, {DUR=0.5, BLOCK=true, DIR=B, PER=0.4}])
-Message sent from 80 to 0 - 
-  SCMD([BRAKE, {PER=0.5}])
-Message sent from 80 to 0 - 
-  SCMD([ROT, {DEG=-175}])
-Message sent from 80 to 0 - 
+Message sent from 94 to 0 - 
   MWNL2_DISCONNECT(null)
